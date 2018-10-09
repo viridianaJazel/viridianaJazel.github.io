@@ -1,8 +1,5 @@
 # Portfolio
 
-## Portfolio
-Project for the implementation of a web interface able to integrate Safron to let users deploy searches
-
 ### Installation and execution
 
 #### Development environment
