@@ -31,3 +31,4 @@ node_modules/
 # Extras
 .DS_Store
 **.css
+dist/*
